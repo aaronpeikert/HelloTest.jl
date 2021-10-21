@@ -1,0 +1,4 @@
+name = "HelloWorld"
+uuid = "caab6dc6-53f1-420f-9713-a90fc04a3a2f"
+authors = ["Aaron Peikert <aaron.peikert@posteo.de>"]
+version = "0.1.0"
